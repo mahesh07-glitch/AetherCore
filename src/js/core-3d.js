@@ -46559,8 +46559,8 @@ All Rights Reserved.`,
   ],
   cubes: [
     {
-      title: "PORTFOLIO_CO_01 Pudgy Penguins",
-      hash: "pudgy-penguins",
+      title: "PORTFOLIO_CO_01 Project Nexus",
+      hash: "project-nexus",
       date: "01/02/2020",
       temp: 0,
       obj: "cube3",
@@ -46568,9 +46568,9 @@ All Rights Reserved.`,
       interior: {
         enabled: !0,
         title: "////// Summary",
-        content: `Pudgy Penguins, a creative venture founded in 2021, quickly gained attention for its unique IP and engaging community. In 2022, the company was acquired by Igloo Inc., a strategic move aimed at expanding its reach and capabilities. The acquisition by Igloo Inc. was part of a broader vision to transform and reposition Pudgy Penguins as a next-generation entertainment company and the face of Web3 worldwide.
+        content: `Project Nexus, the genesis world of the AetherCore ecosystem, launched as an experiment in community-driven world-building. What began as a scattered collection of digital assets has evolved into a fully realized onchain universe.
 
-We believe in a future where intellectual property, digital collectibles, and communities are born and thrive on the blockchain. Since our acquisition, Pudgy Penguins has leveraged its onchain origins to create a new model for consumer brands, shifting from a brand-and-consumer approach to a brand-and-participant model. Our business strategy focuses on expanding a vast range of content mediums, products, and experiences, driving people onchain into the new era of the internet. By harnessing the power of our vibrant community and the rich and whimsical universe of Pudgy Penguins, we're revolutionizing the way IP is created and experienced.`,
+The core vision of AetherCore is to transform passive consumers into active architects. By shifting from top-down development to open-ecosystem participation, we allow our community to directly influence the expansion and mechanics of the network. Together, we are building a vast digital frontier where code, creativity, and community merge into one.`,
         socialTitle: "/// Discover",
         social: [
           { name: "X", link: "https://x.com/pudgypenguins" },
