@@ -46554,8 +46554,8 @@ All Rights Reserved.`,
   clickDisabled: "???????????????",
   close: "Close",
   social: [
-    { name: "X", link: "https://twitter.com/iglooinc" },
-    { name: "LI", link: "https://www.linkedin.com/company/igloo-incorporated" },
+    { name: "X", link: "https://x.com/Mahesh1560694" },
+    { name: "LI", link: "https://www.linkedin.com/in/mahesh-bantupalli-3446ab3a5" },
   ],
   cubes: [
     {
