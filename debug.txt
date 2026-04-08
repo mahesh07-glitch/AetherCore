@@ -1,0 +1,16 @@
+      (this.meshMarginLeft = 0),
+      (this.meshMarginTop = 0),
+      (this.scrollVisible = !0),
+      this.init());
+  }
+  async init() {
+    (this.cameraOptions(),
+      await Promise.all([
+        /*this.createLogo()*/,
+        this.createScroll(),
+        this.createSound(),
+        this.createClose(),
+        this.createProjects(),
+      ]),
+      this.resize(),
+      Q.on("resize", this.resi

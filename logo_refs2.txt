@@ -1,0 +1,2 @@
+    ((this.logo = new LF(this)), await this.logo.ready);
+      [this.logo, this.scroll, this.sound, this.close, this.projects].forEach(

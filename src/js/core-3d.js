@@ -60424,7 +60424,7 @@ class GF extends Jo {
   async init() {
     (this.cameraOptions(),
       await Promise.all([
-        /*this.createLogo()*/,
+        this.createLogo(),
         this.createScroll(),
         this.createSound(),
         this.createClose(),
@@ -60444,9 +60444,7 @@ class GF extends Jo {
       (this.camera.lerpTarget = 0),
       (this.camera.lerpRotation = 0));
   }
-  async createLogo() {
-    ((this.logo = new LF(this)), await this.logo.ready);
-  }
+  async createLogo() { ((this.logo = new LF(this)), await this.logo.ready); if (this.logo && this.logo.mesh) this.logo.mesh.visible = false; }
   async createScroll() {
     ((this.scroll = new FF(this)), await this.scroll.ready);
   }

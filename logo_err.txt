@@ -1,0 +1,1 @@
+    ((this.logo = new LF(this)), await this.logo.ready);
