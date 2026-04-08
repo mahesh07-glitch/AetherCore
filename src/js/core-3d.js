@@ -46651,7 +46651,7 @@ Through a combination of culture & community building, a brand-new economic mech
     },
     {
       title: "Medium",
-      url: "https://medium.com/@iglooinc",
+      url: "https://medium.com/@mahesh9182166",
       vdb: "medium_32",
       scale: 1.25,
     },

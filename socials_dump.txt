@@ -1,7 +1,0 @@
-FOUND:       title: "LinkedIn",
-FOUND X/TW:         social: [{ name: "X", link: "https://twitter.com/OverpassIP" }],
-FOUND X/TW:       url: "https://www.twitter.com/iglooinc",
-FOUND LI URL:     { name: "LI", link: "https://www.linkedin.com/in/mahesh-bantupalli-3446ab3a5" },
-FOUND LI URL:             link: "https://www.linkedin.com/company/pudgy-penguins",
-FOUND LI URL:             link: "https://www.linkedin.com/company/abstract-foundation/about/",
-FOUND LI URL:       url: "https://www.linkedin.com/company/igloo-incorporated",
