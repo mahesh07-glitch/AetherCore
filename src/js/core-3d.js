@@ -46543,10 +46543,10 @@ const Be = {
   colorProjectText: "#A1AAB7",
   manifesto: {
     title: "////// Manifesto",
-    text: "Our mission is to create the largest onchain community, driving the consumer crypto revolution.",
+    text: "We don’t follow the future — we engineer it.\nEvery pixel, every line of code, built to redefine what’s possible.",
   },
   copyright: "// Copyright © 2026",
-  rights: `Igloo, Inc.
+  rights: `AetherCore
 All Rights Reserved.`,
   scroll: "Scroll down to discover.",
   follow: "/// Follow Us",
@@ -60424,7 +60424,7 @@ class GF extends Jo {
   async init() {
     (this.cameraOptions(),
       await Promise.all([
-        this.createLogo(),
+        /*this.createLogo()*/,
         this.createScroll(),
         this.createSound(),
         this.createClose(),
