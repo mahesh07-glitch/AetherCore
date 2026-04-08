@@ -1,0 +1,35 @@
+       objScale: 1.1,
+      },
+    },
+    {
+      title: "PORTFOLIO_CO_02 Overpass",
+      hash: "overpass",
+      date: "06/01/2023",
+      temp: -3,
+      obj: "cube1",
+      innerobject: "overpass_logo",
+      interior: {
+        enabled: !0,
+        title: "////// Summary",
+        content: `OverpassIP was established as a solution to a significant licensing challenge faced by Pudgy Penguins, marking its inception with a crucial breakthrough in NFT licensing. The company empowers NFT holders by allowing them to submit their digital assets for potential licensing opportunities, offering a platform where collections can significantly amplify their growth and engagement. By participating in OverpassIP, collections open up a realm of possibilities for their brands, bringing their holders along for the ride through expansive licensing avenues.
+
+Moreover, brands seeking to enhance their initiatives can access a curated pool of NFTs on OverpassIP, selecting the intellectual property that best aligns with their strategic goals. This innovative approach not only facilitates dynamic partnerships between NFT creators and brands but also pioneers new frontiers in the utilization of digital assets within the broader market.`,
+        socialTitle: "/// Discover",
+        social: [{ name: "X", link: "https://twitter.com/OverpassIP" }],
+        linkTitle: "/// Visit",
+        links: [{ name: "website", link: "https://www.overpassip.com" }],
+        obj: "overpass_logo",
+        objScale: 1.2,
+      },
+    },
+    {
+      title: "PORTFOLIO_CO_03 Abstract",
+      hash: "abstract",
+      date: "06/28/2024",
+      temp: -5,
+      obj: "cube2",
+      innerobject: "abstractlogo",
+      interior: {
+        enabled: !0,
+        title: "////// Summary",
+        content: `Introducing Abstract, the blockchain for consumer crypto, pioneering culture, community, and creativity onchain. We believe that consumer crypto is the breakthrough opportunity to bring billions of people onchain and the final frontier for consumer crypto adoption. The 

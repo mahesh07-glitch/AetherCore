@@ -46588,8 +46588,8 @@ The core vision of AetherCore is to transform passive consumers into active arch
       },
     },
     {
-      title: "PORTFOLIO_CO_02 Overpass",
-      hash: "overpass",
+      title: "PORTFOLIO_CO_02 Anomaly-02",
+      hash: "anomaly-02",
       date: "06/01/2023",
       temp: -3,
       obj: "cube1",
@@ -46597,9 +46597,9 @@ The core vision of AetherCore is to transform passive consumers into active arch
       interior: {
         enabled: !0,
         title: "////// Summary",
-        content: `OverpassIP was established as a solution to a significant licensing challenge faced by Pudgy Penguins, marking its inception with a crucial breakthrough in NFT licensing. The company empowers NFT holders by allowing them to submit their digital assets for potential licensing opportunities, offering a platform where collections can significantly amplify their growth and engagement. By participating in OverpassIP, collections open up a realm of possibilities for their brands, bringing their holders along for the ride through expansive licensing avenues.
+        content: `Anomaly-02: 'The Overpass'. Originally documented as a rogue data leak during the early test phases of the Aether Engine, The Overpass was successfully quarantined and repurposed in late 2025. It now serves as an encrypted bridge between the AetherCore network and legacy Web2 infrastructure.
 
-Moreover, brands seeking to enhance their initiatives can access a curated pool of NFTs on OverpassIP, selecting the intellectual property that best aligns with their strategic goals. This innovative approach not only facilitates dynamic partnerships between NFT creators and brands but also pioneers new frontiers in the utilization of digital assets within the broader market.`,
+Operating entirely in the shadows, this protocol allows legacy systems to anonymously port logic and geometry into our decentralized chain. Access to The Overpass is strictly regulated and curated by the core architect team, ensuring only the highest fidelity digital artifacts cross the threshold into our ecosystem. It is the silent gatekeeper of the AetherCore reality.`,
         socialTitle: "/// Discover",
         social: [{ name: "X", link: "https://twitter.com/OverpassIP" }],
         linkTitle: "/// Visit",
