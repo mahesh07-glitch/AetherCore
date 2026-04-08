@@ -46639,13 +46639,13 @@ Through a combination of culture & community building, a brand-new economic mech
   links: [
     {
       title: "LinkedIn",
-      url: "https://www.linkedin.com/company/igloo-incorporated",
+      url: "https://www.linkedin.com/in/mahesh-bantupalli-3446ab3a5",
       vdb: "peachesbody_64",
       scale: 1.2,
     },
     {
       title: "X / Twitter",
-      url: "https://www.twitter.com/iglooinc",
+      url: "https://x.com/Mahesh1560694",
       vdb: "x_64",
       scale: 1.3,
     },
